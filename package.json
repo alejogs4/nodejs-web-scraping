@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-web-scrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejogs4/nodejs-web-scraping.git"
+  },
+  "keywords": [
+    "nodejs",
+    "web",
+    "scrapping"
+  ],
+  "author": "Alejandro Garcia Serna <alejogs4@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alejogs4/nodejs-web-scraping/issues"
+  },
+  "homepage": "https://github.com/alejogs4/nodejs-web-scraping#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
